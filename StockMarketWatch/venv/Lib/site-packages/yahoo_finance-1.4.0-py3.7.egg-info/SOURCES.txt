@@ -1,0 +1,13 @@
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+test/test_yahoo.py
+yahoo_finance/__init__.py
+yahoo_finance/yql.py
+yahoo_finance.egg-info/PKG-INFO
+yahoo_finance.egg-info/SOURCES.txt
+yahoo_finance.egg-info/dependency_links.txt
+yahoo_finance.egg-info/entry_points.txt
+yahoo_finance.egg-info/requires.txt
+yahoo_finance.egg-info/top_level.txt
